@@ -3,7 +3,7 @@
 ## Enunt
 
 Pe scurt, este vorba de a verifica daca un *grid* dat si niste constrangeri satisfac conditiile
-impuse de jocul **Nomogram**. Pentru mai multe detalii cititi acest [link](file:///tmp/mozilla_horia0/Programare_2019___Tema_1.pdf#section*.7).
+impuse de jocul **Nomogram**. Pentru mai multe detalii cititi acest [link](https://acs.curs.pub.ro/2019/pluginfile.php/50548/mod_folder/content/0/Programare_2019___Tema_1.pdf?forcedownload=1).
 
 ## Explicatii cod
 
